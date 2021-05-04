@@ -17,12 +17,10 @@ https://youtu.be/FJP4GsKD1Kw
     
     
 ## Installation Instructions <a id="installation"></a>
-To install necessary dependancies run thr following command:
-npm i
-To seed data to this application run the following command:
-npm run seed
-To start the application run the following command:
-node server.js
+To install dependancies, seed data and start this application run the following commands:
+`npm i` 
+`npm run seed`
+`node server.js`
 ## Usage <a id="usage"></a>
 This application is intened to run as the backend for an e-commerce website.
 ## License <a id="license"></a>
